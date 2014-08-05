@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<exam source="National Center For University Entrance Examination" subject="SekaishiB(main exam)" year="2001">
+          Center-2001--Main-WorldHistoryB<br/>        
+  <title>
+                2001 Academic Year Main Examination: World History B<br />
+                <br />
+                  
+  </title>
+                
+  <question id="Q1" minimal="no">
+                    <label>[1]</label>                
+    <instruction>
+                              <br />
+                              <br />
+                              Throughout world history, various empires have been formed.Read the following texts A-C, which relate to such empires and the regions incorporated into them, and answer the questions (Questions 1-11) below.<br />
+                              (27 points)<br />
+                                        
+    </instruction>
+                                
+    <data id="D0" type="text">
+                              <label>Ａ</label> Conceptually, the authority of the <uText id="U1"><label>(1)</label>Holy Roman Empire</uText> was supposed to extend across the whole of the western Christian world, but the realm over which it actually ruled was limited to the region centered on what are today the countries of Germany and Austria.The figure who actually built an empire that ruled the majority of Europe was Napoleon, who gained power amid a popular revolution.However, because nationalism eventually arose in each region, it became impossible for such empires to survive.The <uText id="U2"><label>(2)</label>German Empire built by Bismarck</uText> aimed for the creation of a nation state, while Austria took great pains to maintain a multi-ethnic nation.On the other hand, <uText id="U3"><label>(3)</label>colonial empires were formed by the Great Powers outside Europe.</uText>Germany and Italy lagged behind in this process; <uText id="U4"><label>(4)</label>the former saw the rise of Hitler, who dreamed of the Third Reich ruling Europe, while in the latter emerged Mussolini, who called for the building of an empire to rule the Mediterranean.<br />
+                              </uText><br />
+                                        
+    </data>
+                                
+    <question anscol="A1" answer_style="multipleChoice" answer_type="sentence" id="Q2" knowledge_type="KS" minimal="yes">
+                              <label>Question 1</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that is correct in regard to the empire referred to in the underlined portion <ref comment="" target="U1">(1)</ref>.                        
+      </instruction>
+                              <ansColumn id="A1">１</ansColumn>      <br/>                        
+      <choices anscol="A1" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The heyday of this empire was during the Nerva–Antonine dynasty.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>During the 14th century, this empire waged the Hundred Years' War against France.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Napoleon revived this empire.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Emperor Henry IV of this empire came into conflict with the Pope.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A2" answer_style="multipleChoice" answer_type="sentence" id="Q3" knowledge_type="KS" minimal="yes">
+                              <label>Question 2</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that is correct in regard to the underlined portion <ref comment="" target="U2">(2)</ref>.                        
+      </instruction>
+                              <ansColumn id="A2">２</ansColumn>      <br/>                        
+      <choices anscol="A2" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Bismarck was defeated by Austria in the Austro-Prussian War and abandoned the incorporation of Austria into a unified Germany.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Bismarck defeated France in the Franco-Prussian War.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The German Emperor Wilhelm I came into conflict with Bismarck after his coronation and he caused Bismarck to resign.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The German Empire formed the Triple Alliance with Austria and France.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A3" answer_style="multipleChoice" answer_type="sentence" id="Q4" knowledge_type="KS" minimal="yes">
+                              <label>Question 3</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that is correct in regard to the underlined portion <ref comment="" target="U3">(3)</ref>.                        
+      </instruction>
+                              <ansColumn id="A3">３</ansColumn>      <br/>                        
+      <choices anscol="A3" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>France expanded into China and leased Kiautschou Bay.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Germany deployed a global strategy by means of the so-called &quot;3C policy&quot;.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Queen Victoria of the United Kingdom became Empress of India.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The Netherlands colonized Liberia in the early 20th century.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A4" answer_style="multipleChoice" answer_type="sentence" id="Q5" knowledge_type="KS" minimal="yes">
+                              <label>Question 4</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that is correct in regard to the underlined portion <ref comment="" target="U4">(4)</ref>.                        
+      </instruction>
+                              <ansColumn id="A4">４</ansColumn>      <br/>                        
+      <choices anscol="A4" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Mussolini invaded Ethiopia and annexed it.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Along with Hitler, Mussolini created the Munich-Rome Axis.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Hitler annexed Poland's Sudetenland.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The Vichy regime fled to the UK and opposed Hitler.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D1" type="text">
+                              <label>Ｂ</label>There were many ethnic groups in the extensive Ottoman Empire, but <uText id="U5"><label>(5)</label>religion constituted the main sense of belonging for the people of the empire and for a long time there were few problems arising from differences between ethnic groups.</uText>However, in the 19th century, wars began to break out over independence for ethnic groups and, due in part to intervention of the countries of Europe, the breakup and dismantling of the empire progressed.Thus, the Ottoman Empire was forced to accept the contraction of its territory and it fell after the First World War.<uText id="U6"><label>(6)</label>More than 20 modern countries were part of the realm of the Ottoman Empire during its heyday</uText>, but many problems involving ethnic groups arose from the process of drawing up the borders between them.One example of this is the <uText id="U7"><label>(7)</label>problem of the Kurds</uText>, who were divided by national borders between countries including Turkey and Iraq.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A5" answer_style="multipleChoice" answer_type="sentence" id="Q6" knowledge_type="KS" minimal="yes">
+                              <label>Question 5</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence in which the word with a wavy line below it is correct in regard to the underlined portion <ref comment="" target="U5">(5)</ref>.                        
+      </instruction>
+                              <ansColumn id="A5">５</ansColumn>      <br/>                        
+      <choices anscol="A5" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>In the same way as in the former Muslim dynasty, until the mid-19th century, non-Muslim adult males in the Ottoman Empire were obliged to pay the jizya, which was a <uText id="U8">poll tax</uText>.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Among the many Jews banished from <uText id="U9">France</uText> because of the re-conquest and recovery of territory (Reconquista) were some who emigrated to the Ottoman Empire.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum><uText id="U10">Napoleon III</uText>, who led the expedition to Egypt famous for the discovery of the Rosetta Stone, issued a proclamation there, in which he claimed that the French army was a group of Muslims.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum><uText id="U11">Suleiman the Magnificent</uText>, who became governor of Egypt in 1805, with the support of the local people, was an Albanian who was born in what is currently Greek territory.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A6" answer_style="multipleChoice" answer_type="term_location" id="Q7" knowledge_type="KS" minimal="yes">
+                              <label>Question 6</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one option that is incorrect as the name of a country among those referred to the underlined portion <ref comment="" target="U6">(6)</ref>.                        
+      </instruction>
+                              <ansColumn id="A6">６</ansColumn>      <br/>                        
+      <choices anscol="A6" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Cyprus                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Hungary                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Bulgaria                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Czech Republic                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A7" answer_style="multipleChoice" answer_type="(symbol-term_other)*2" id="Q8" knowledge_type="KS" minimal="yes">
+                              <label>Question 7</label>                        
+      <instruction>
+                                        The sentences below describe the emergence in Turkey of the problem referred to in the underlined portion <ref comment="" target="U7">(7)</ref>.From ①~④ below, choose the correct combination of treaty names that should be inserted into the gaps marked <ref target="B1">(A)</ref> and <ref target="B2">(B)</ref>.                        
+      </instruction>
+                              <ansColumn id="A7">７</ansColumn>      <br/>      <br/>                        
+      <data id="D13" type="text">
+                                        The Ottoman Empire, as the vanquished nation, concluded the <blank id="B1"><label>(A)</label></blank> in 1920 with the Entente Powers; as well as substantially reducing its territory, this agreement stipulated the granting of autonomy to Kurds in Eastern Anatolia.However, in 1923, after the fall of the empire, the <blank id="B2"><label>(B)</label></blank> concluded with the Entente Powers by the new Turkish government in order to secure independence, did not refer to autonomy for the Kurds.<br />
+                                                        
+      </data>
+                              <br/>                        
+      <choices anscol="A7" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum><ref target="B1">(A)</ref>-Treaty of Sèvres<ref target="B2">(B)</ref>-Treaty of Lausanne                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum><ref target="B1">(A)</ref>-Treaty of Lausanne<ref target="B2">(B)</ref>-Treaty of Sèvres                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum><ref target="B1">(A)</ref>-Treaty of Paris<ref target="B2">(B)</ref>-Treaty of Lausanne                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum><ref target="B1">(A)</ref>-Treaty of Paris<ref target="B2">(B)</ref>-Treaty of Sèvres                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D2" type="text">
+                              <label>Ｃ</label>There are cases in which a single region is brought under the rule of various empires and political forces at different points in history, leading to the formation of a composite culture and society.For example, over the course of history, Taiwan, which was an island of Austronesian-speaking aborigines, experienced incursions by a variety of political forces, including the Netherlands, <uText id="U12"><label>(8)</label>China,</uText> and Japan.Among the place names in Taiwan are some that carry the traces of such rule through to the present day (see <ref target="D14">map</ref>).Originally, the sound of the name &quot;Taiwan&quot; was derived from an aboriginal word, but names such as Taipei and Taichung are Chinese-style place names.Moreover, there is also the example of the <uText id="U13"><label>(9)</label>Japanese</uText> who colonized Taiwan assigning the characters 高雄 (Takao) to signify the local sound of the name &quot;Takow&quot;(currently known as Kaohsiung).Furthermore, after <uText id="U14"><label>(10)</label>Japan's defeat</uText> in the war, quite a few <uText id="U15"><label>(11)</label>place names were changed by the government of the Republic of China</uText>.                        
+      <data id="D14" type="image">
+                                                                
+        <img src="Center-2001--Main-SekaishiB-001.png"/>
+                                                        
+      </data>
+                              <br/>      <br/>                
+    </data>
+                                
+    <question anscol="A8" answer_style="multipleChoice" answer_type="term_person" id="Q9" knowledge_type="KS" minimal="yes">
+                              <label>Question 8</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U12">(8)</ref>, from ①~④ below, choose the most appropriate option as the name of the Chinese dynasty that first ruled Taiwan.                        
+      </instruction>
+                              <ansColumn id="A8">８</ansColumn>      <br/>                        
+      <choices anscol="A8" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Han                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Tang                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Yuan                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Qing                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A9" answer_style="multipleChoice" answer_type="term_other" id="Q10" knowledge_type="KS" minimal="yes">
+                              <label>Question 9</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U13">(9)</ref>, from ①~④ below, choose the correct name of the war that brought about Japan's rule over Taiwan.                        
+      </instruction>
+                              <ansColumn id="A9">９</ansColumn>      <br/>                        
+      <choices anscol="A9" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The First Sino-Japanese War                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>The Russo-Japanese War                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The First World War                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The Second Sino-Japanese War                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A10" answer_style="multipleChoice" answer_type="sentence" id="Q11" knowledge_type="KS" minimal="yes">
+                              <label>Question 10</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that is correct in regard to the underlined portion <ref comment="" target="U14">(10)</ref>.                        
+      </instruction>
+                              <ansColumn id="A10">10</ansColumn>      <br/>                        
+      <choices anscol="A10" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>A representative of China also participated in the Cairo Conference and it was decided to return Taiwan.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Stalin participated in the Cairo Conference, representing the Soviet Union.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The Potsdam Declaration demanded the surrender of Japan and Germany.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Chiang Kai-shek traveled to Taiwan and led the resistance against the Japanese.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A11" answer_style="multipleChoice" answer_type="term_other" id="Q12" knowledge_type="KS,IC_M" minimal="yes">
+                              <label>Question 11</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U15">(11)</ref>, the <ref target="D15">map</ref> below shows part of what is currently the city of Taipei; all of the names of the streets <ref comment="画像内">(A)</ref>-<ref comment="画像内">(C)</ref> are taken from political ideals that form the cornerstones of the Chinese Nationalist Party (Kuomintang of China).From ①~④ below, choose which of the options corresponds to the name of the street that fits into the gap marked <ref comment="画像内">(a)</ref>.                        
+      </instruction>
+                              <ansColumn id="A11">11</ansColumn>                        
+      <data id="D15" type="image">
+                                                                
+        <img src="Center-2001--Main-SekaishiB-002.png"/>
+                                        <br />
+                                                        
+      </data>
+                              <br/>                        
+      <choices anscol="A11" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Minguo (Republic of China)                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Minzhu (democracy)                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Minzhong (the people)                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Minsheng (people's welfare)                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                        
+  </question>
+                
+  <question id="Q13" minimal="no">
+                    <label>[2]</label>                
+    <instruction>
+                              <br />
+                              <br />
+                              Over the course of history, the interests of states have led to the creation of many treaties and declarations.Read the following texts A-D, which relate to such matters, and answer the questions (Questions 1-10) below.(Some of the historical sources have been rewritten or abridged).<br />
+                              (24 points)<br />
+                                        
+    </instruction>
+                                
+    <data id="D3" type="text">
+                              <label>Ａ</label>The text below forms part of a treaty concluded in 1004 between the Khitan State (Liao) and the Song, called the Chanyuan Treaty.<br />
+                              <br />
+                              Every year, the Song shall send 200,000 <blank id="B3"><label>(A)</label></blank> and 100,000 pieces of <blank id="B4"><label>(B)</label></blank> as a contribution to war funds.The Khitan Emperor shall maintain fraternal relations with the Song Emperor and they shall refer to each other as the northern and southern dynasties.The borders between both countries shall all be as they were originally and both sides shall protect their respective borders, with neither side permitting their people to invade the other.The border fortresses and river channels shall remain as they are; no new construction or excavation shall be carried out.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A12" answer_style="multipleChoice" answer_type="term_other-term_other" id="Q14" knowledge_type="KS" minimal="yes">
+                              <label>Question 1</label>                        
+      <instruction>
+                                        From ①~⑥ below, choose the correct combination of words that should be inserted into the gaps marked <ref comment="" target="B3">(A)</ref> and <ref target="B4">(B)</ref>.                        
+      </instruction>
+                              <ansColumn id="A12">12</ansColumn>      <br/>                        
+      <choices anscol="A12" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>horses - gold                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>horses - silver                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>horses - iron                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>bolts of silk - gold                                
+        </choice>
+                                                                
+        <choice ansnum="5">
+                                                  <cNum>⑤</cNum>bolts of silk - silver                                
+        </choice>
+                                                                
+        <choice ansnum="6">
+                                                  <cNum>⑥</cNum>bolts of silk - iron                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A13" answer_style="multipleChoice" answer_type="sentence" id="Q15" knowledge_type="KS" minimal="yes">
+                              <label>Question 2</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that is a correct statement in relation to this treaty.                        
+      </instruction>
+                              <ansColumn id="A13">13</ansColumn>      <br/>                        
+      <choices anscol="A13" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>After the conclusion of this treaty, the Song also reached a peace settlement with the Western Xia.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>The Liao emperor at the time this treaty was concluded was Yelü Abaoji (Emperor Taizu of Liao).                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>As a result of this treaty, the Liao increased their strength as a nation and expanded their influence to Central Asia, building the Kara-Khitan Khanate.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Those on the Song side who advocated the conclusion of this treaty were bureaucrats affiliated to conservative elements in the dynasty.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D4" type="text">
+                              <label>Ｂ</label>The following text is an excerpt from a treaty concluded between China and Russia (see the <ref target="D16">map</ref>).<br />
+                              <br />
+                              The party of Chinese minister Songgotu and the party of Russian ambassador Golovin met at <blank id="B5"><label>(1)</label></blank> and stipulated the following.<br />
+                              <br />
+                              Article 1 From the Gorbitsa River, which flows into Sahaliyan-ula* from the north, the boundary shall run along the spine of the great stony mountain range where this river has its source to the sea; all of the rivers and streams to the south of this that flow into Sahaliyan-ula shall be under the administration of China, while all of the rivers on the north side of this boundary shall be under the jurisdiction of Russia.<br />
+                              <br />
+                              *This means &quot;black river&quot; in the Manchu language and refers to the Amur River (Heilong Jiang).                        
+      <data id="D16" type="image">
+                                                                
+        <img src="Center-2001--Main-SekaishiB-003.png"/>
+                                                        
+      </data>
+                              <br/>      <br/>                
+    </data>
+                                
+    <question anscol="A14" answer_style="multipleChoice" answer_type="term_location" id="Q16" knowledge_type="KS" minimal="yes">
+                              <label>Question 3</label>                        
+      <instruction>
+                                        From ①~④ below, choose the correct place name, from which the treaty takes its name, that should be inserted into the gap marked <ref comment="" target="B5">(1)</ref> in the text.                        
+      </instruction>
+                              <ansColumn id="A14">14</ansColumn>      <br/>                        
+      <choices anscol="A14" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Aigun                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Kyakhta                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Nerchinsk                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Beijing                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A15" answer_style="multipleChoice" answer_type="sentence" id="Q17" knowledge_type="KS" minimal="yes">
+                              <label>Question 4</label>                        
+      <instruction>
+                                        From ①~④ below, choose the most appropriate sentence concerning China during the period when this treaty was concluded.                        
+      </instruction>
+                              <ansColumn id="A15">15</ansColumn>      <br/>                        
+      <choices anscol="A15" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The rebellion called the Revolt of the Three Feudatories was subjugated.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>The Sishu Daquan (Great Compendium of the Four Books) was compiled.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The Great Wall of China was repaired to prepare for an invasion by Esen taishi.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Licensed trade took place with Japan.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D5" type="text">
+                              <label>Ｃ</label>The following text is an excerpt from an international treaty concluded in the 1920s, which relates to regional security in Western Europe.<br />
+                              <br />
+                              Article 1 The High Contracting Parties collectively and severally guarantee the maintenance of the territorial status quo resulting from the frontiers between Germany and Belgium and between Germany and France, and the inviolability of the said frontiers as fixed by or in pursuance of the Treaty of Peace signed at Versailles on June 28, 1919, and also the observance of the stipulations of Articles 42 and 43* of the said treaty concerning the demilitarised zone.<br />
+                              Article 2 Germany and Belgium, and also Germany and France, mutually undertake that they will in no case attack or invade each other or resort to war against each other.<br />
+                              <br />
+                              *In Article 42 of the Treaty of Versailles, Germany was prohibited from fortifying the left bank of the Rhine or anywhere in an area within 50 kilometers of the east of the river, while in Article 43, it was prohibited from stationing German armed forces or conducting military maneuvers within that area.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A16" answer_style="multipleChoice" answer_type="term_other" id="Q18" knowledge_type="KS" minimal="yes">
+                              <label>Question 5</label>                        
+      <instruction>
+                                        From ①~④ below, choose the correct name of this treaty.                        
+      </instruction>
+                              <ansColumn id="A16">16</ansColumn>      <br/>                        
+      <choices anscol="A16" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Treaty of Rapallo                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Locarno Pact                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Treaty of Brest-Litovsk                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Treaty of Saint-Germain-en-Laye                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A17" answer_style="multipleChoice" answer_type="sentence" id="Q19" knowledge_type="KS" minimal="yes">
+                              <label>Question 6</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence in which the word with a wavy line below it is correct in regard to this treaty.                        
+      </instruction>
+                              <ansColumn id="A17">17</ansColumn>      <br/>                        
+      <choices anscol="A17" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The French army occupied the <uText id="U16">Rhineland</uText> due to default on payments of reparations.                                 
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum> Through cooperative diplomacy, <uText id="U17">Ebert</uText> achieved Germany's accession to the League of Nations.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum><uText id="U18">Briand</uText>, who contributed to the conclusion of this treaty, later advocated an anti-war treaty.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The UK, which participated in this treaty, later discussed the ownership ratio of secondary ships at the <uText id="U19">Washington Naval Conference</uText>.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A18" answer_style="multipleChoice" answer_type="sentence" id="Q20" knowledge_type="KS" minimal="yes">
+                              <label>Question 7</label>                        
+      <instruction>
+                                        In regard to this treaty, from ①~④ below, choose the one sentence that incorrectly describes German foreign policy in the 1930s.                        
+      </instruction>
+                              <ansColumn id="A18">18</ansColumn>      <br/>                        
+      <choices anscol="A18" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>It withdrew from the League of Nations.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>It incorporated the Saarland.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>It ceded Danzig (Gdansk) to Poland.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>It occupied the Rhineland.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D6" type="text">
+                              <label>Ｄ</label>After the Second World War, the United States of America adopted a policy of providing economic aid to other countries in order to curb the spread of Communist influence.The following text is an excerpt from the Truman Doctrine, which marked the start of this policy.<br />
+                              <br />
+                              I believe that our help should be primarily through <uText id="U20"><label>(2)</label>economic and financial aid</uText> which is essential to economic stability and orderly political processes.I therefore ask the Congress to provide authority for assistance to <blank id="B6"><label>(C)</label></blank> and <blank id="B7"><label>(D)</label></blank> in the amount of $400,000,000 for the period ending June 30, 1948.<br />
+                               The Government of the United States has made frequent protests against coercion and intimidation in violation of the Yalta Agreement in <uText id="U21"><label>(3)</label>Poland, Romania, and Bulgaria</uText>.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A19" answer_style="multipleChoice" answer_type="sentence" id="Q21" knowledge_type="KS" minimal="yes">
+                              <label>Question 8</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U20">(2)</ref>, from ①~④ below, choose the one correct sentence concerning the foreign aid policy implemented by the United States of America in response to world affairs after the Second World War.                        
+      </instruction>
+                              <ansColumn id="A19">19</ansColumn>      <br/>                        
+      <choices anscol="A19" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>It implemented the Marshall Plan.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>It implemented the Dawes Plan.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>It issued the Hoover Moratorium.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>It implemented the Young Plan.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A20" answer_style="multipleChoice" answer_type="term_location-term_location" id="Q22" knowledge_type="KS" minimal="yes">
+                              <label>Question 9</label>                        
+      <instruction>
+                                        From ①~⑤ below, choose the correct combination of country names that should be inserted into the gaps marked <ref comment="" target="B6">(C)</ref> and <ref target="B7">(D)</ref>.                        
+      </instruction>
+                              <ansColumn id="A20">20</ansColumn>      <br/>                        
+      <choices anscol="A20" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Yugoslavia - Turkey                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Federal Republic of Germany - Austria                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Greece - Turkey                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Yugoslavia - France                                
+        </choice>
+                                                                
+        <choice ansnum="5">
+                                                  <cNum>⑤</cNum>UK - Greece                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A21" answer_style="multipleChoice" answer_type="sentence" id="Q23" knowledge_type="KS" minimal="yes">
+                              <label>Question 10</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that is correct in regard to the countries referred to in the underlined portion <ref comment="" target="U21">(3)</ref>.                        
+      </instruction>
+                              <ansColumn id="A21">21</ansColumn>      <br/>                        
+      <choices anscol="A21" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Romania was one of the first countries to be born after the First World War.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>The Partitions of Poland resulted in the fall of the Jagiellonian dynasty.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>During the First World War, Bulgaria fought on the German side.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Bulgaria won the Second Balkan War.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                        
+  </question>
+                
+  <question id="Q24" minimal="no">
+                    <label>[3]</label>                
+    <instruction>
+                              <br />
+                              <br />
+                              Read the following texts A-C, which relate to the diverse roles of intellectuals throughout world history, and answer the questions (Questions 1-11) below.<br />
+                              (27 points)<br />
+                                        
+    </instruction>
+                                
+    <data id="D7" type="text">
+                              <label>Ａ</label>The picture below shows The Four Sages, which was drawn by a Japanese artist during the Meiji period.The accompanying text states, &quot;The Four Sages are Confucius, Buddha, Socrates, and Kant.&quot;This is a historical source that shows which thinkers of any era or civilization the Japanese perceived as the Four Great Sages of the world, at a time when they had begun to re-evaluate Eastern civilization while actively accepting Western civilization, following the Meiji Restoration. <br />
+                              <br />
+                                                
+      <data id="D17" type="image">
+                                                                
+        <img src="Center-2001--Main-SekaishiB-004.png"/>
+                                                        
+      </data>
+                                        
+    </data>
+                                
+    <question anscol="A22" answer_style="multipleChoice" answer_type="sentence" id="Q25" knowledge_type="KS,IC_P" minimal="yes">
+                              <label>Question 1</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that correctly describes trends in Confucianism starting in the times of figure <ref comment="画像内" target="D17">(a)</ref> in the picture.                        
+      </instruction>
+                              <ansColumn id="A22">22</ansColumn>      <br/>                        
+      <choices anscol="A22" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Qin Shihuangdi, the First Emperor, expelled the legalists and defended Confucianism.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Dong Zhongshu established xungu xue (exegetic semantics), which emphasizes lexical analysis of the Chinese classics.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Han Yu and others compiled the Wujing zhengyi (Correct Meaning of the Five Classics), thereby providing a unified interpretation of the Confucian classics.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Zhu Xi assigned special significance to the Sishu (Four Books) and perfected Neo-Confucianism.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A23" answer_style="multipleChoice" answer_type="symbol-symbol" id="Q46" knowledge_type="KS,IC_P" minimal="yes">
+                              <label>Question 2</label>                        
+      <instruction>
+                                    From ①~⑥ below, choose the correct combination of statements (i)-(iv) in relation to the intellectual lineage of figure <ref comment="画像内" target="D17">(b)</ref> in the picture.                    
+      </instruction>
+                              <ansColumn id="A23">23</ansColumn>      <br/>                        
+      <data id="D18" type="text">
+                                    <lText id="L1"><label>(i)</label>Francis Bacon advocated empiricism (inductive reasoning), which seeks to elicit general principles from factual observation.<br />
+                                    </lText><lText id="L2"><label>(ii)</label>Descartes established rationalism (deductive reasoning), which seeks to investigate truth mathematically.<br />
+                                    </lText><lText id="L3"><label>(iii)</label>Spinoza rejected continental rationalism.<br />
+                                    </lText><lText id="L4"><label>(iv)</label>British empiricism began with Hume and was perfected by Locke.</lText><br />
+                                                  
+      </data>
+                                                
+      <choices anscol="A23" comment="">
+                                                                
+        <choice ansnum="1">
+                                              <cNum>①</cNum><ref target="L1">(i)</ref>-<ref target="L2">(ii)</ref>                            
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                              <cNum>②</cNum><ref target="L1">(i)</ref>-<ref target="L3">(iii)</ref>                            
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                              <cNum>③</cNum><ref target="L1">(i)</ref>-<ref target="L4">(iv)</ref>                            
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                              <cNum>④</cNum><ref target="L2">(ii)</ref>-<ref target="L3">(iii)</ref>                            
+        </choice>
+                                                                
+        <choice ansnum="5">
+                                              <cNum>⑤</cNum><ref target="L2">(ii)</ref>-<ref target="L4">(iv)</ref>                            
+        </choice>
+                                                                
+        <choice ansnum="6">
+                                              <cNum>⑥</cNum><ref target="L3">(iii)</ref>-<ref target="L4">(iv)</ref>                            
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A24" answer_style="multipleChoice" answer_type="sentence" id="Q27" knowledge_type="KS,IC_P" minimal="yes">
+                              <label>Question 3</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that incorrectly describes intellectuals in ancient Greece in relation to figure <ref comment="画像内" target="D17">(c)</ref> in the picture.                        
+      </instruction>
+                              <ansColumn id="A24">24</ansColumn>      <br/>                        
+      <choices anscol="A24" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Thales and others advocated natural philosophy and sought to identify the properties of nature.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>The Sophists emerged and claimed the existence of absolute truth.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Plato advocated the Theory of Forms and the Theory of the State.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Aristotle codified various academic studies and systematized them.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A25" answer_style="multipleChoice" answer_type="(symbol-symbol)*4" id="Q47" knowledge_type="KS,IC_P" minimal="yes">
+                              <label>Question 4</label>                        
+      <instruction>
+                                    From ①~④ below, choose the correct combination of figures <ref comment="画像内">a</ref>-<ref comment="画像内">d</ref> in the picture and descriptions of their respective ideas.                    
+      </instruction>
+                              <ansColumn id="A25">25</ansColumn>                        
+      <data id="D19" type="text">
+                                    <br />
+                                    <lText id="L5"><label>(i)</label>He advocated the existence of universal truth and thought of the unity of knowledge and virtue as the way of life for citizens.<br />
+                                    </lText><lText id="L6"><label>(ii)</label>He thought that if a person took the right path, they could free themself from the suffering of birth, age, sickness, death.<br />
+                                    </lText><lText id="L7"><label>(iii)</label>He attached importance to the practice of family morality and considered it to be the foundations for social order.<br />
+                                    </lText><lText id="L8"><label>(iv)</label>He engaged in a fundamental reflection on human cognitive abilities and established critical philosophy.<br />
+                                    </lText>                    
+      </data>
+                                                
+      <choices anscol="A25" comment="">
+                                                                
+        <choice ansnum="1">
+                                              <cNum>①</cNum><ref comment="画像内" target="D17">a</ref>-<ref target="L6">(ii)</ref><ref comment="画像内" target="D17">b</ref>-<ref target="L5">(i)</ref><ref comment="画像内" target="D17">c</ref>-<ref target="L8">(iv)</ref><ref comment="画像内" target="D17">d</ref>-<ref target="L7">(iii)</ref>                            
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                              <cNum>②</cNum><ref comment="画像内" target="D17">a</ref>-<ref target="L6">(ii)</ref><ref target="D17">b</ref>-<ref target="L8">(iv)</ref><ref comment="画像内" target="D17">c</ref>-<ref target="L5">(i)</ref><ref comment="画像内" target="D17">d</ref>-<ref target="L7">(iii)</ref>                            
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                              <cNum>③</cNum><ref comment="画像内" target="D17">a</ref>-<ref target="L7">(iii)</ref><ref comment="画像内" target="D17">b</ref>-<ref target="L8">(iv)</ref><ref comment="画像内" target="D17">c</ref>-<ref target="L5">(i)</ref><ref comment="画像内" target="D17">d</ref>-<ref target="L6">(ii)</ref>                            
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                              <cNum>④</cNum><ref comment="画像内" target="D17">a</ref>-<ref target="L7">(iii)</ref><ref comment="画像内" target="D17">b</ref>-<ref target="L5">(i)</ref><ref comment="画像内" target="D17">c</ref>-<ref target="L8">(iv)</ref><ref comment="画像内" target="D17">d</ref>-<ref target="L6">(ii)</ref>                            
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D8" type="text">
+                              <label>Ｂ</label>At New Year in 1780, the <uText id="U22"><label>(1)</label>Qianlong Emperor</uText> set out on a tour of inspection to the south and, after enjoying the culture and scenery of the lower reaches of the Yangtze River, in places such as Yangzhou (see <ref target="D20">map</ref>), he spent summer and fall at the Chengde Mountain Resort (see <ref target="D20">map</ref>), to the north of the Great Wall, and it was there that he received congratulations on his 70th birthday from his subjects and various ethnic groups.Having witnessed this celebration, the <uText id="U23"><label>(2)</label>Joseon intellectual Pak Jiwon described it in his work Yeolha Ilki (Rehe Diaries).<br />
+                              </uText>At that time, the wealthy merchants of Yangzhou provided support for intellectuals and artists, and the parks were restored to their full glory to improve the local landscape each time the emperor made a tour of inspection to the south, so this city became a center of <uText id="U24"><label>(3)</label>learning and culture during the Qing dynasty</uText>.Moreover, the Chengde Mountain Resort was an imperial villa that incorporated aspects of Mongolian and Tibetan culture, so it symbolized the Qing dynasty's rule over the <uText id="U25"><label>(4)</label>inland ethnic groups</uText>.Thus, Yangzhou and Chengde played a role in bringing Han intellectuals and nobles from inland areas under the rule of the Qing dynasty.<br />
+                                                
+      <data id="D20" type="image">
+                                                                
+        <img src="Center-2001--Main-SekaishiB-005.png"/>
+                                                        
+      </data>
+                              <br/>                
+    </data>
+                                
+    <question anscol="A26" answer_style="multipleChoice" answer_type="sentence" id="Q29" knowledge_type="KS" minimal="yes">
+                              <label>Question 5</label>                        
+      <instruction>
+                                        The figure referred to in the underlined portion <ref comment="" target="U22">(1)</ref> initiated frequent expeditions outside the borders of the empire.From ①~④ below, choose the one sentence that correctly describes the foreign relations of successive Chinese dynasties.                        
+      </instruction>
+                              <ansColumn id="A26">26</ansColumn>      <br/>                        
+      <choices anscol="A26" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Qin Shihuangdi, the First Emperor attacked the Tibetan Empire and repaired the Great Wall of China.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Emperor Wu of the Western Han dynasty overthrew Wiman Joseon and established the Lelang Commandery in his place.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The incident in which a Ming Emperor was held captive by Altan Khan is called the Tumu Crisis.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Kublai Khan of the Yuan destroyed the Taungoo Dynasty of Burma (Myanmar).                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A27" answer_style="multipleChoice" answer_type="sentence" id="Q30" knowledge_type="KS" minimal="yes">
+                              <label>Question 6</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U23">(2)</ref>, from ①~④ below, choose the one sentence that incorrectly describes the dynasty that ruled the Korean Peninsula at that time.                        
+      </instruction>
+                              <ansColumn id="A27">27</ansColumn>      <br/>                        
+      <choices anscol="A27" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>After the establishment of the dynasty, it designated Kaesong as the new capital.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>It attached importance to the Cheng-Zhu school and designated this as the state-sanctioned approach to learning.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>It instituted the phonetic alphabet called Hunminjeongeum.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The people of the ruling class in this dynasty were called the yangban.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A28" answer_style="multipleChoice" answer_type="sentence" id="Q31" knowledge_type="KS" minimal="yes">
+                              <label>Question 7</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U24">(3)</ref>, from ①~④ below, choose the one sentence that correctly describes learning and culture during the Qing period.                        
+      </instruction>
+                              <ansColumn id="A28">28</ansColumn>      <br/>                        
+      <choices anscol="A28" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The Kunyu Wanguo Quantu (Map of the Myriad Countries of the World) was compiled at the order of the Qianlong Emperor.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Gu Yanwu criticized kaozheng xue (evidential scholarship).                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The Literary Inquisition took place and anti-Qing sentiment was suppressed.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Qian Daxin devised the Manchu alphabet.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A29" answer_style="multipleChoice" answer_type="sentence" id="Q32" knowledge_type="KS" minimal="yes">
+                              <label>Question 8</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U25">(4)</ref>, from ①~④ below, choose the one correct sentence concerning the history of various ethnic groups in inland Asia.                        
+      </instruction>
+                              <ansColumn id="A29">29</ansColumn>      <br/>                        
+      <choices anscol="A29" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The influence of the Khwarazmian dynasty extended as far as Central Asia, but it was overthrown by Ghazan.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Je Tsongkhapa reformed Tibetan Buddhism and founded the Gelug school (Yellow Hat Sect).                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The Zunghar Khanate engaged in ongoing opposition to the Qing dynasty, but it weakened and was annexed by Russia.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The Qing dynasty established the zhong shu sheng (Central Secretariat) to control regions such as Mongolia and Tibet.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D9" type="text">
+                              <label>Ｃ</label><uText id="U26"><label>(5)</label>The 19th century French literary giant Victor Hugo lived a tumultuous life as a politician.</uText>Hugo, who was a member of the Chamber of Peers at the time of the July Monarchy, was also elected as a member of the National Constituent Assembly following the French Revolution of 1848 (February Revolution).At the time of the coup d'état of 1851, he organized an opposition committee and called for the defense of the republic, but this ended in failure and he was forced to live in exile for 19 years.During this time, he wrote such major works as Les Misérables.Becoming an assembly member again following his return to his home country, he was given a state funeral after his death in Paris.However, the latter half of the 19th century, when Hugo was celebrated as a hero of the republicans, <uText id="U27"><label>(6)</label>was also a time when France adopted a more aggressive posture toward other countries.<br />
+                              </uText><br />
+                                        
+    </data>
+                                
+    <question anscol="A30" answer_style="multipleChoice" answer_type="sentence" id="Q33" knowledge_type="KS" minimal="yes">
+                              <label>Question 9</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U26">(5)</ref>, from ①~④ below, choose the one sentence that incorrectly describes political events that Hugo (1802-85) encountered during his lifetime.                        
+      </instruction>
+                              <ansColumn id="A30">30</ansColumn>      <br/>                        
+      <choices anscol="A30" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>After Napoleon I was ousted, Louis XVI was restored to the throne, thereby reviving the Bourbon dynasty.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>As a result of the July Revolution, a system of defending the profits of bankers and other major financiers was established.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Louis-Napoléon was elected in the presidential election held during the Second Republic.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The common people of Paris, who were resentful of the humiliating terms of the peace agreement with Germany, declared the establishment of the Paris Commune.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A31" answer_style="multipleChoice" answer_type="term_other" id="Q34" knowledge_type="KS" minimal="yes">
+                              <label>Question 10</label>                        
+      <instruction>
+                                        In regard once more to the underlined portion <ref comment="" target="U26">(5)</ref>, Balzac was among those who participated in the literary salons held by Hugo.From ①~④ below, choose the most appropriate sentence concerning Balzac's literary tendency.                        
+      </instruction>
+                              <ansColumn id="A31">31</ansColumn>      <br/>                        
+      <choices anscol="A31" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Symbolism                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Classicism                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Romanticism                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Realism                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A32" answer_style="multipleChoice" answer_type="sentence" id="Q35" knowledge_type="KS" minimal="yes">
+                              <label>Question 11</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U27">(6)</ref>, from ①~④ below, choose the one sentence that correctly describes France's foreign policy in the latter half of the 19th century.                        
+      </instruction>
+                              <ansColumn id="A32">32</ansColumn>      <br/>                        
+      <choices anscol="A32" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>It forced Joseon to embark on a process of opening up during the rule of the Daewongun.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>It came into conflict with Spain about dividing up Africa and caused the Fashoda Incident.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>It concluded a friendship treaty with Japan before the USA and the UK did so.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>It dispatched troops to Mexico, but this ended in failure.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                        
+  </question>
+                
+  <question id="Q36" minimal="no">
+                    <label>[4]</label>                
+    <instruction>
+                              <br />
+                              <br />
+                              Agriculture is mankind's most basic form of occupation and the conditions faced by farmers are an indicator that helps us to understand a particular era or society. Read the following texts A-C, which relate to agriculture and farmers, and answer the questions (Questions 1-9) below.<br />
+                              (22 points)<br />
+                                        
+    </instruction>
+                                
+    <data id="D10" type="text">
+                              <label>Ａ</label>In the Roman Empire, primarily on the Italian Peninsula, agricultural management of extensive landed estates developed over the course of several centuries, starting a couple of centuries before the beginning of the Christian era, mainly using slaves.Such extensive landed estates were called <blank id="B16"><label>(1)</label></blank> and they produced crops on a large scale for commercial purposes.Moreover, writings emerged that discussed effective crop cultivation methods and <uText id="U28"><label>(2)</label>efficient slave usage methods</uText>.At the same time, there was an influx to Rome of impoverished peasants who had relinquished their agricultural land.Grain and bread, among other foods, were distributed to urban citizens without property, who had increased in number in this way.In the <uText id="U29"><label>(3)</label>Roman provinces in the east of the empire</uText>, such as Egypt, which was the main source of supply of this grain, the traditional agricultural communes survived, with peasant farmers and tenant farmers engaging in agriculture, so the situation in society there differed from that in the west of the empire.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A33" answer_style="multipleChoice" answer_type="term_other" id="Q37" knowledge_type="KS" minimal="yes">
+                              <label>Question 1</label>                        
+      <instruction>
+                                        From ①~④ below, choose the correct word that should be inserted into the gap marked <ref comment="" target="B16">(1)</ref> in the text.                        
+      </instruction>
+                              <ansColumn id="A33">33</ansColumn>      <br/>                        
+      <choices anscol="A33" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>manufacture                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>latifundia                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>iqta                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>kolkhoz                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A34" answer_style="multipleChoice" answer_type="sentence" id="Q38" knowledge_type="KS" minimal="yes">
+                              <label>Question 2</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U28">(2)</ref>, from ①~④ below, choose the one sentence that incorrectly describes slaves.                        
+      </instruction>
+                              <ansColumn id="A34">34</ansColumn>      <br/>                        
+      <choices anscol="A34" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The first Muslim dynasty that took Delhi as its capital was called the Slave Dynasty (Mamluk dynasty).                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>The leader of the great slave rebellion that occurred in Italy in the first century BC was Spartacus.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The system of slavery was abolished in Athens when democracy was perfected.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Black slaves were introduced in Spanish colonies in Central and South America.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A35" answer_style="multipleChoice" answer_type="sentence" id="Q39" knowledge_type="KS" minimal="yes">
+                              <label>Question 3</label>                        
+      <instruction>
+                                        The region referred to in the underlined portion <ref comment="" target="U29">(3)</ref> came under the rule of the Byzantine Empire after the empire split into eastern and western regions.From ①~④ below, choose the one sentence that is correct as a description of the Byzantine Empire.                        
+      </instruction>
+                              <ansColumn id="A35">35</ansColumn>      <br/>                        
+      <choices anscol="A35" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>St. Sophia's Cathedral in Constantinople was built at the order of Leo III the Isaurian.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Constantinople was temporarily conquered by the Sassanid Empire and became its capital.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>One of the characteristics of the Byzantine style was the use of mosaics.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>After the East-West Schism finally occurred, the Byzantine Empire stipulated Greek as its official language.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D11" type="text">
+                              <label>Ｂ</label>The <uText id="U30"><label>(4)</label>mastery of feudal lords over peasant farmers</uText> in Russia and Eastern Europe was restructured and strengthened in the 15th and 16th centuries, and production of grain for export flourished.<uText id="U31"><label>(5)</label>Ownership of large tracts of land continued for a long time in this region and it lagged behind in terms of the emancipation of the peasant farmers, so the peasant movement demanding emancipation developed into a major force.</uText>In the 19th century, emancipation of the peasants took place in this region as well, but their economic situation did not necessarily improve.Land reforms were carried out in Russia after the October Revolution and in <uText id="U32"><label>(6)</label>Eastern Europe after the Second World War</uText>, and new approaches to agriculture were pursued under socialism.Under this system, farmers were required to cooperate and collectivize in various ways.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A36" answer_style="multipleChoice" answer_type="sentence" id="Q40" knowledge_type="KS" minimal="yes">
+                              <label>Question 4</label>                        
+      <instruction>
+                                        From ①~④ below, choose the sentence in which the word with a wavy line below it is correct in regard to peasant farmers in Central and Eastern Europe, in relation to the underlined portion <ref comment="" target="U30">(4)</ref>.                        
+      </instruction>
+                              <ansColumn id="A36">36</ansColumn>      <br/>                        
+      <choices anscol="A36" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>In Austria, efforts were made to emancipate peasants under <uText id="U33">Frederick the Great</uText>.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>The emancipation of peasants in Prussia was carried out amid the <uText id="U34">Thirty Years' War</uText>.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>In Poland and <uText id="U35">Lithuania</uText>, which united to form a kingdom in the 14th century, farmers were increasingly bound to the land.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum><uText id="U36">Gustavus Adolphus</uText>, who opposed the Partitions of Poland, declared the emancipation of the peasants.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A37" answer_style="multipleChoice" answer_type="sentence" id="Q41" knowledge_type="KS" minimal="yes">
+                              <label>Question 5</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U31">(5)</ref>, from ①~④ below, choose the one sentence that incorrectly describes peasant farmers and agriculture in Russia.                        
+      </instruction>
+                              <ansColumn id="A37">37</ansColumn>      <br/>                        
+      <choices anscol="A37" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>In 17th century Russia, the Peasants' Rebellion took place under the leadership of Müntzer.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>After Pugachev's Rebellion, serfdom was reinforced.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The emancipation of the serfs took place in Russia, which had been defeated in the Crimean War.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>After the revolution of 1905, agricultural reforms were carried out during the reign of Nicholas II.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A38" answer_style="multipleChoice" answer_type="sentence" id="Q42" knowledge_type="KS" minimal="yes">
+                              <label>Question 6</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that is correct in regard to the underlined portion <ref comment="" target="U32">(6)</ref>.                        
+      </instruction>
+                              <ansColumn id="A38">38</ansColumn>      <br/>                        
+      <choices anscol="A38" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The Polish Corridor was created.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Albania was made a protectorate of Italy.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Rijeka (Fiume) in Yugoslavia was annexed by Italy.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Yugoslavia was expelled from Cominform (the Communist Party Information Bureau).                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D12" type="text">
+                              <label>Ｃ</label>Southeast Asia is located in a tropical and subtropical monsoon belt, and rice cultivation has been carried out there since ancient times.Moreover, this region produced spices, so, <uText id="U37"><label>(7)</label>seeking these, European powers began to enter into trade in this region by force in the early 16th century.</uText>However, when major changes in the situation surrounding trade in Asia occurred, such as a slump in the price of spices, farmers began to be forced to cultivate specific commercial crops.<uText id="U38"><label>(8)</label>Colonial rule</uText>, involving the management of land and manpower in order to expand production of commercial crops, gained momentum in the 19th century.Society was transformed substantially, with the focus of agricultural production in Southeast Asia shifting from growing food for subsistence purposes to producing <uText id="U39"><label>(9)</label>commercial crops for markets around the world</uText>.Due to the oppression they suffered in their daily lives, peasant rebellions occurred in various regions, and these foreshadowed the subsequent nationalist movements.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A39" answer_style="multipleChoice" answer_type="sentence" id="Q43" knowledge_type="KS" minimal="yes">
+                              <label>Question 7</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U37">(7)</ref>, from ①~④ below, choose the one sentence that correctly describes Southeast Asia during the 16th and 17th centuries.                        
+      </instruction>
+                              <ansColumn id="A39">39</ansColumn>      <br/>                        
+      <choices anscol="A39" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The Netherlands was the first of the countries of Europe to advance into Southeast Asia.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>France was pushed out of the Maluku (Molucca) Islands as a result of the Amboyna massacre.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The UK occupied Malacca.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Spain used Manila as its base for trade in Asia.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A40" answer_style="multipleChoice" answer_type="sentence" id="Q44" knowledge_type="KS" minimal="yes">
+                              <label>Question 8</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U38">(8)</ref>, from ①~④ below, choose the sentence in which the word with a wavy line below it is correct in regard to colonial rule by the Great Powers in Southeast Asia.                        
+      </instruction>
+                              <ansColumn id="A40">40</ansColumn>      <br/>                        
+      <choices anscol="A40" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum><uText id="U40">Portugal</uText> earned enormous profits as a result of its forced cultivation system in Java.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum><uText id="U41">Thai</uText>land was the only country in Southeast Asia to be spared colonial rule and retain its independence.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The rebellion of the Black Flag Army, which opposed <uText id="U42">British</uText> colonial rule, took place in Vietnam.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum><uText id="U43">France's</uText> Straits Settlements and the realm of the Dutch East Indies were established after the Napoleonic Wars.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A41" answer_style="multipleChoice" answer_type="term_other" id="Q45" knowledge_type="KS" minimal="yes">
+                              <label>Question 9</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U39">(9)</ref>, from ①~④ below, choose the one option that was not a major commercial crop for export produced in Java.                        
+      </instruction>
+                              <ansColumn id="A41">41</ansColumn>      <br/>                        
+      <choices anscol="A41" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Coffee                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Rice                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Indigo                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Sugarcane                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                        
+  </question>
+</exam>

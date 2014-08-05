@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<exam source="National Center For University Entrance Examination" subject="SekaishiB(main exam)" year="1997">
+          Center-1997--Main-WorldHistoryB<br/>        
+  <title>
+                1997 Academic Year Main Examination: World History B<br />
+                <br />
+                  
+  </title>
+                
+  <question id="Q1" minimal="no">
+                    <label>[1]</label>                
+    <instruction>
+                              <br />
+                              <br />
+                              Read the following texts A-C, which relate to war and peace in the 20th century, and answer the questions (Questions 1-11) below.<br />
+                              (33 points)<br />
+                                        
+    </instruction>
+                                
+    <data id="D0" type="text">
+                              <label>Ａ</label>In terms of characteristics of the First World War, firstly, <uText id="U1"><label>(1)</label>many new weapons appeared</uText>, which increased the scale of the human and physical damage.Secondly, the war became prolonged, turning into total war, in which the main participants mobilized their human, economic, and scientific might.Consequently, <uText id="U2"><label>(2)</label>even citizens who did not set foot on the battlefield suffered the effects of war in various ways, and the understanding and cooperation of the populace became essential to the conduct of the war.</uText>Thirdly, <uText id="U3"><label>(3)</label>many countries not only in Europe, but also in Asia, Africa, and America became involved in the war for various reasons, so it truly was a world war, as the name suggests.</uText>In addition, during the Second World War, the aforementioned characteristics were amplified further.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A1" answer_style="multipleChoice" answer_type="sentence" id="Q2" knowledge_type="KS" minimal="yes">
+                              <label>Question 1</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that contains a mistake in regard to the underlined portion <ref comment="" target="U1">(1)</ref>.                        
+      </instruction>
+                              <ansColumn id="A1">１</ansColumn>      <br/>                        
+      <choices anscol="A1" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Poison gas was used in trench warfare.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Tanks were developed in order to break through the trenches.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Aircraft were used for reconnaissance and bombing.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Unrestricted submarine warfare was carried out by the United States of America.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A2" answer_style="multipleChoice" answer_type="sentence" id="Q3" knowledge_type="KS" minimal="yes">
+                              <label>Question 2</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U2">(2)</ref>, from ①~④ below, choose the one sentence concerning the situation relating to the main European participants in the war that contains a mistake.                        
+      </instruction>
+                              <ansColumn id="A2">２</ansColumn>      <br/>                        
+      <choices anscol="A2" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Immediately after the outbreak of war, the socialist political parties in each country simultaneously launched an antiwar movement.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Production and distribution of consumer goods stagnated, and food shortages and price rises occurred in some countries.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>In some countries, women were employed in the production of weapons at munitions factories.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Feelings of war-weariness spread among the people, and there were countries in which this developed into revolution.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A3" answer_style="multipleChoice" answer_type="term_location" id="Q4" knowledge_type="KS" minimal="yes">
+                              <label>Question 3</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U3">(3)</ref>, from ①~④ below, choose the one correct option that is the name of a country that participated in the war on the allied side.                        
+      </instruction>
+                              <ansColumn id="A3">３</ansColumn>      <br/>                        
+      <choices anscol="A3" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Switzerland                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Italy                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Belgium                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Bulgaria                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A4" answer_style="multipleChoice" answer_type="sentence" id="Q5" knowledge_type="KS" minimal="yes">
+                              <label>Question 4</label>                        
+      <instruction>
+                                        In regard again to the underlined portion <ref comment="" target="U3">(3)</ref>, from ①~④ below, choose the one sentence that correctly describes Asian countries during or after the First World War.                        
+      </instruction>
+                              <ansColumn id="A4">４</ansColumn>      <br/>                        
+      <choices anscol="A4" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>India was a French colony, so it had to dispatch many soldiers to the battlefields of Europe.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Japan participated in the war on the basis of the Anglo-Japanese Alliance and occupied Qingdao in Shandong Province.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The UK promised independence to the Arabs under the Balfour Declaration.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>In China after the war, a reform and self-strengthening movement (reform movement) arose in opposition to the Treaty of Versailles.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D1" type="text">
+                              <label>Ｂ</label>The world economy, which had been afflicted by exhaustion and confusion due to the First World War, began to show signs of recovery in the latter half of the 1920s, and it was thought that it might recover its pre-war dynamism.However, triggered by the October 1929 stock price crash on the <blank id="B1"><label>(4)</label></blank> stock exchange, <uText id="U4"><label>(5)</label>capitalist countries were beset by a prolonged recession and social instability spread.</uText>On the other hand, during this period, the Soviet Union kept its distance from the capitalist world and progressed along the path to becoming an independent industrial state.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A5" answer_style="multipleChoice" answer_type="term_location" id="Q6" knowledge_type="KS" minimal="yes">
+                              <label>Question 5</label>                        
+      <instruction>
+                                        From ①~④ below, choose the most appropriate city name that should be inserted into the gap marked <ref comment="" target="B1">(4)</ref> in the text.                        
+      </instruction>
+                              <ansColumn id="A5">５</ansColumn>      <br/>                        
+      <choices anscol="A5" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>London                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Paris                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Berlin                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>New York                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A6" answer_style="multipleChoice" answer_type="sentence" id="Q7" knowledge_type="KS" minimal="yes">
+                              <label>Question 6</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U4">(5)</ref>, from ①~④ below, choose the one sentence that incorrectly describes events during the 1930s.                        
+      </instruction>
+                              <ansColumn id="A6">６</ansColumn>      <br/>                        
+      <choices anscol="A6" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>In the UK, MacDonald put together a national unity government.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>In Germany, Hitler came to power and withdrew from the League of Nations.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>In Italy, Mussolini established a fascist regime.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>In the United States of America, Franklin Roosevelt implemented the New Deal policy.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A7" answer_style="multipleChoice" answer_type="(symbol-term_location)*4" id="Q8" knowledge_type="KS,IC_G" minimal="yes">
+                              <label>Question 7</label>                        
+      <instruction>
+                                        The graph below shows changes in the proportion accounted for by each country in the total value of industrial production in four countries, during the period from before the First World War to before the Second World War.From ①~④ below, choose the correct combination of country names that correspond to letters <ref comment="画像内">a</ref>-<ref comment="画像内">d</ref>.(Please note that the figure for the Soviet Union in 1913 is actually for Imperial Russia.)                        
+      </instruction>
+                              <ansColumn id="A7">７</ansColumn>      <br/>                        
+      <data id="D13" type="image">
+                                                                
+        <img comment="画像ファイルなし"/>
+                                                        
+      </data>
+                              <br/>                        
+      <choices anscol="A7" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum><ref comment="画像内">a</ref>Soviet Union<ref comment="画像内">b</ref>Germany        <ref comment="画像内">c</ref>United Kingdom<ref comment="画像内">d</ref>United States of America<br />
+                                                                        
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum><ref comment="画像内">a</ref>Germany<ref comment="画像内">b</ref>Soviet Union       <ref comment="画像内">c</ref>United States of America<ref comment="画像内">d</ref>United Kingdom        	                
+        </choice>
+                                        <br/>                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum><ref comment="画像内">a</ref>Soviet Union<ref comment="画像内">b</ref>United Kingdom                            <ref comment="画像内">c</ref>United States of America<ref comment="画像内">d</ref>Germany<br />
+                                                                        
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum><ref comment="画像内">a</ref>United Kingdom<ref comment="画像内">b</ref>United States of America                 <ref comment="画像内">c</ref>Germany<ref comment="画像内">d</ref>Soviet Union<br />
+                                                  <br />
+                                                       
+        </choice>
+                                                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D2" type="text">
+                              <label>Ｃ</label>After the end of the Second World War, which had brought about unprecedented damage, people hoped that such tragedy would never be repeated.The concept of an organization to maintain peace had already been discussed during the war, and the <uText id="U5"><label>(6)</label>United Nations</uText> was officially established in 1945.However, <uText id="U6"><label>(7)</label>a Cold War began between the US and the Soviet Union, and the world faced another serious conflict.</uText>In relation to this, <uText id="U7"><label>(8)</label>movements emerged that criticized the current situation, which was focused on conventional military might and violence, and emphasized peaceful means instead.</uText>Moreover, in order to create peace, not only military factors, but also <uText id="U8"><label>(9)</label>complex problems such as economic factor</uText> came to be considered.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A8" answer_style="multipleChoice" answer_type="sentence" id="Q9" knowledge_type="KS" minimal="yes">
+                              <label>Question 8</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that is correct in regard to the underlined portion <ref comment="" target="U5">(6)</ref>.                        
+      </instruction>
+                              <ansColumn id="A8">８</ansColumn>      <br/>                        
+      <choices anscol="A8" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The policy of establishing an organization for peace was set forth in 1941 in the Atlantic Charter.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>The nations vanquished in the Second World War also acceded to the United Nations from the outset.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The People's Republic of China has been a permanent member of the Security Council since that body's establishment.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The Korean War ended within a year, due to the intervention of United Nations forces.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A9" answer_style="multipleChoice" answer_type="o(sentence-sentence-sentence-sentence)" id="Q10" knowledge_type="KS" minimal="yes">
+                              <label>Question 9</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U6">(7)</ref>, from ①~④ below, choose the correct chronological sequence of events relating to the Cold War.                        
+      </instruction>
+                              <ansColumn id="A9">９</ansColumn>      <br/>                        
+      <choices anscol="A9" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Warsaw Treaty Organization formed - Berlin blockade - Cuban missile crisis - Japan-US Security Treaty signed (1951)                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Berlin blockade - Japan-US Security Treaty signed (1951) - Warsaw Treaty Organization formed - Cuban missile crisis                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Japan-US Security Treaty signed (1951) - Cuban missile crisis - Berlin blockade - Warsaw Treaty Organization formed                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Berlin blockade - Warsaw Treaty Organization formed - Japan-US Security Treaty signed (1951) - Cuban missile crisis                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A10" answer_style="multipleChoice" answer_type="sentence" id="Q11" knowledge_type="KS" minimal="yes">
+                              <label>Question 10</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U7">(8)</ref>, from ①~④ below, choose the one sentence in which the wavy line is incorrect.                        
+      </instruction>
+                              <ansColumn id="A10">10</ansColumn>      <br/>                        
+      <choices anscol="A10" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>At the 1961 <uText id="U9">Conference of Heads of State or Government of Non-Aligned Countries</uText>, participants called for peaceful coexistence and anticolonialism.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Zhou Enlai and Nehru announced the <uText id="U10">Five Principles of Peaceful Coexistence</uText> and formulated new guidelines concerning international relations.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Under the <uText id="U11">Locarno Treaties</uText>, arrangements were made concerning the security of the North Atlantic.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>In the United States of America, a movement focused on the <uText id="U12">elimination of racial discrimination</uText> by nonviolent means developed around Pastor King.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A11" answer_style="multipleChoice" answer_type="sentence" id="Q12" knowledge_type="KS" minimal="yes">
+                              <label>Question 11</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that is correct in regard to the underlined portion <ref comment="" target="U8">(9)</ref>.                        
+      </instruction>
+                              <ansColumn id="A11">11</ansColumn>      <br/>                        
+      <choices anscol="A11" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The European Economic Community (EEC) promoted economic integration focused on the UK.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>The North-South divide is a term that indicates the differences between the United States of America and the Soviet Union in terms of their political and economic systems.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The oil crises (Oil Shock) occurred because of a reduction in the price of crude oil and oversupply by the Arab oil-producing countries.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Asia saw the emergence of the newly-industrializing economies (NIES), which achieved rapid economic growth.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                        
+  </question>
+                
+  <question id="Q13" minimal="no">
+                    <label>[2]</label>                
+    <instruction>
+                              <br />
+                              <br />
+                              Read the following texts A-C, which relate to inscriptions on monuments, paintings, and relics throughout world history, and answer the questions (Questions 1-9) below.<br />
+                              (21 points)<br />
+                                        
+    </instruction>
+                                
+    <data id="D3" type="text">
+                              <label>Ａ</label>Mankind depicted the spiritual world in paintings, but when written characters were eventually developed, humanity acquired a means of communicating things more accurately and more broadly.Initially, characters were mainly used by people in the ruling class.They <uText id="U13"><label>(1)</label>inscribed royal edicts on stone pillars</uText>, and <uText id="U14"><label>(2)</label>carved the genealogy of royal families and the achievements of kings onto immense stones, to convey this information to future generations.</uText>At the same time, one can see the nature of diplomatic correspondence on <uText id="U15"><label>(3)</label>stone steles on which the promises made between states were carved</uText>.Along with clay tablets and bamboo and wooden slips, these are prized as historical sources from the period concerned.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A12" answer_style="multipleChoice" answer_type="sentence" id="Q14" knowledge_type="KS,IC_P" minimal="yes">
+                              <label>Question 1</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U13">(1)</ref>, Photograph <ref target="D14">(a)</ref> is a stone pillar on which the royal edict of an ancient Indian king has been carved.Choose the correct explanation from ①~④ below.                        
+      </instruction>
+                              <ansColumn id="A12">12</ansColumn>      <br/>                        
+      <data id="D14" type="image">
+                                                                
+        <img src="Center-1997--Main-SekaishiB-001.png"/>
+                                                        
+      </data>
+                              <br/>                        
+      <choices anscol="A12" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>It is the pillar that proclaims eternal rule over northeastern India, which Alexander the Great conquered.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>It is the pillar on which Chandragupta announced to the nation his policy of enriching the country and strengthening the military after unifying southern India.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>It is the pillar on which Ashoka, having converted to Buddhism, announced to the nation his policy of rule based on dharma.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>It is the pillar on which Kanishka ordered the protection of Hinduism in northwestern India, which he had conquered.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A13" answer_style="multipleChoice" answer_type="term_location" id="Q15" knowledge_type="KS" minimal="yes">
+                              <label>Question 2</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U14">(2)</ref>, the Gwanggaeto Stele of Goguryeo records developments in East Asia at the end of the 4th century.From ①~④ below, choose the correct option showing the name of a country that appears therein.                        
+      </instruction>
+                              <ansColumn id="A13">13</ansColumn>      <br/>                        
+      <choices anscol="A13" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Eastern Han                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Wei                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Sui                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Baekje                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A14" answer_style="multipleChoice" answer_type="sentence" id="Q16" knowledge_type="KS" minimal="yes">
+                              <label>Question 3</label>                        
+      <instruction>
+                                        The Tang-Tubo Alliance Monument, which commemorates peace between the Tang and the Tibetan Empire, is an example of the monuments referred to in the underlined portion <ref comment="" target="U15">(3)</ref>.In relation to this, from ①~④ below, choose the one sentence that is correct in regard to the Tibetan Empire.                        
+      </instruction>
+                              <ansColumn id="A14">14</ansColumn>      <br/>                        
+      <choices anscol="A14" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The Tibetan Empire primarily flourished in northern Vietnam.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>The Tibetan alphabet was created in the Tibetan Empire.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Islamic culture and Chinese culture were merged in the Tibetan Empire.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The Tibetan Empire fell after being attacked by Kublai Khan.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D4" type="text">
+                              <label>B</label>Relics such as stones and ceramics bearing characters, which have been found in the Orient and Greece hitherto, are extremely precious historical sources for learning about the society of the times.The stone slab shown in <ref target="D16">(a)</ref> below, which was discovered by chance in 1799 at Rosetta, at the mouth of the Nile, is called the <uText id="U16"><label>(4)</label>Rosetta Stone</uText>, and is currently displayed at the British Museum.The upper part of the stone stele shown in <ref target="D16">(b)</ref> below, which was discovered at Susa in 1901, features a relief carving that depicts the king receiving the <uText id="U17"><label>(5)</label>code of laws</uText> from Shamash, the god of justice, and below this are carved the preamble, the provisions of 282 articles, and the epilogue.On the other hand, the numerous ostraca (potsherds) discovered in the agora on the north side of the Acropolis in Athens differ somewhat in purpose from the aforementioned two examples.The potsherd shown in <ref target="D3">(c)</ref> below was written on by a citizen of Athens in the 5th century BCE, and is probably an <uText id="U18"><label>(6)</label>ostracon, used in the system of ostrakismos (ostracism)</uText>.<br />
+                                                
+      <data id="D16" type="image">
+                                                                
+        <img src="Center-1997--Main-SekaishiB-002.png"/>
+                                                        
+      </data>
+                              <br/>                
+    </data>
+                                
+    <question anscol="A15" answer_style="multipleChoice" answer_type="sentence" id="Q17" knowledge_type="KS" minimal="yes">
+                              <label>Question 4</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that is correct in regard to the underlined portion <ref comment="" target="U16">(4)</ref>.                        
+      </instruction>
+                              <ansColumn id="A15">15</ansColumn>      <br/>                        
+      <choices anscol="A15" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>In order, starting from the top, this stone slab is inscribed with hieroglyphs, Demotic characters, and Greek characters.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>In order, starting from the top, this stone slab is inscribed with Persian characters, Aramaic characters, and Phoenician characters                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The inscriptions on this stone slab convey a decree from Syria at the time of the Seleucid Empire.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The inscriptions on this stone slab convey a decree from Macedonia at the time of the Antigonid dynasty.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A16" answer_style="multipleChoice" answer_type="sentence" id="Q18" knowledge_type="KS" minimal="yes">
+                              <label>Question 5</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that contains a mistake in regard to the underlined portion <ref comment="" target="U17">(5)</ref>.                        
+      </instruction>
+                              <ansColumn id="A16">16</ansColumn>      <br/>                        
+      <choices anscol="A16" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>This code of laws is inscribed in cuneiform script.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>This code of laws includes the principle of exact reciprocity.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>This code of laws is called the Code of Hammurabi, after the king who promulgated it.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The kingdom that used this code of laws was overthrown by the Akkadians                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A17" answer_style="multipleChoice" answer_type="sentence" id="Q19" knowledge_type="KS" minimal="yes">
+                              <label>Question 6</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that is correct in regard to the underlined portion <ref comment="" target="U18">(6)</ref>.                        
+      </instruction>
+                              <ansColumn id="A17">17</ansColumn>      <br/>                        
+      <choices anscol="A17" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The citizens of Athens cast these potsherds in order to select members of their council.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>The citizens of Athens cast these potsherds in order to select their consuls and generals.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The citizens of Athens voted by writing the name of the faction that they endorsed on these potsherds.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The citizens of Athens voted by writing the name of the person whom they feared might become a tyrant on these potsherds.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D5" type="text">
+                              <label>Ｃ</label>The following photographs <ref target="D17">(a)</ref>-<ref target="D19">(c)</ref> show famous pictures and ruins.<br />
+                                                
+      <data id="D17" type="image">
+                                                                
+        <img src="Center-1997--Main-SekaishiB-003.png"/>
+                                                        
+      </data>
+                                                
+      <data id="D18" type="image">
+                                                                
+        <img src="Center-1997--Main-SekaishiB-004.png"/>
+                                                        
+      </data>
+                                                
+      <data id="D19" type="image">
+                                                                
+        <img src="Center-1997--Main-SekaishiB-005.png"/>
+                                                        
+      </data>
+                              <blank id="B5"/>      <br/>                
+    </data>
+                                
+    <question anscol="A18" answer_style="multipleChoice" answer_type="sentence" id="Q20" knowledge_type="KS,IC_P" minimal="yes">
+                              <label>Question 7</label>                        
+      <instruction>
+                                        From ①~④ below, choose the option that is most appropriate as an explanation of the picture in photograph <ref target="D17">(a)</ref>.                        
+      </instruction>
+                              <ansColumn id="A18">18</ansColumn>      <br/>                        
+      <choices anscol="A18" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>It depicts an expedition by the pharaoh.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>It depicts a dead person being judged by a god.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>It depicts the solar calendar used in Egypt.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>It depicts the marriage ceremony of a pharaoh and his queen during the New Kingdom period                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A19" answer_style="multipleChoice" answer_type="sentence" id="Q21" knowledge_type="KS,IC_P" minimal="yes">
+                              <label>Question 8</label>                        
+      <instruction>
+                                        From ①~④ below, choose the option that is most appropriate as an explanation of the ruin in photograph <ref target="D18">(b)</ref>.                        
+      </instruction>
+                              <ansColumn id="A19">19</ansColumn>      <br/>                        
+      <choices anscol="A19" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>This is called Angkor Wat and was a Hindu temple.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>This is called Angkor Wat and was a Muslim temple.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>This is called Borobudur and was a Hindu temple.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>This is called Borobudur and was a Muslim temple.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A20" answer_style="multipleChoice" answer_type="sentence" id="Q22" knowledge_type="KS,IC_P" minimal="yes">
+                              <label>Question 9</label>                        
+      <instruction>
+                                        From ①~④ below, choose the option that is most appropriate as an explanation of the ruin in photograph <ref target="D19">(c)</ref>.                        
+      </instruction>
+                              <ansColumn id="A20">20</ansColumn>      <br/>                        
+      <choices anscol="A20" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>It is an annex to the mausoleum of Qin Shihuangdi, the First Emperor.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>It is an annex to the mausoleum of the king of Nanyue.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>It is an annex to the mausoleum of Emperor Wu of Han.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>It is an annex to the mausoleum of Emperor Xuanzong of Tang.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                        
+  </question>
+                
+  <question id="Q23" minimal="no">
+                    <label>[3]</label>                
+    <instruction>
+                              <br />
+                              <br />
+                              Read the following texts A-C, which relate to social status and class throughout world history, and answer the questions (Questions 1-9) below.<br />
+                              (20 points)<br />
+                                        
+    </instruction>
+                                
+    <data id="D6" type="text">
+                              <label>Ａ</label>There is a view that, from the Song period to the Qing period, the ruling class in Chinese society was the class of scholar-officials.They were distinct from the common people by the fact that they were generally landowners and were well-versed in learning, particularly the Confucian classics.<uText id="U19"><label>(1)</label>The cultural pursuits in which they engaged also differed from those of the common people.</uText><uText id="U20"><label>(2)</label>Some scholar-officials became government officials through Imperial examinations, and ruled the common people as proxies of the emperor.</uText>However, the distinction between the two classes was not fixed, and the path to joining the class of scholar-officials was open to high-caliber people if they passed the Imperial examinations, even if they were the children of common people.The fact that a certain degree of fluidity between the classes existed is accepted to have been one factor that contributed to the stability of Chinese society.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A21" answer_style="multipleChoice" answer_type="sentence" id="Q24" knowledge_type="KS" minimal="yes">
+                              <label>Question 1</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that contains a mistake in regard to the underlined portion <ref comment="" target="U19">(1)</ref>.                        
+      </instruction>
+                              <ansColumn id="A21">21</ansColumn>      <br/>                        
+      <choices anscol="A21" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Romance of the Three Kingdoms is a leading work of popular literature.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>During the Yuan period, many plays such as The Story of the Western Wing were written, and were loved by the common people.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>During the Ming period, Yangmingism became the state-sanctioned approach to learning, forming the basis of the thinking and action of scholar-officials.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>During the Qing dynasty, many scholar-officials were mobilized in the compilation of works such as the Siku Quanshu (The Complete Library in the Four Branches of Literature).                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A22" answer_style="multipleChoice" answer_type="sentence" id="Q25" knowledge_type="KS" minimal="yes">
+                              <label>Question 2</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence regarding the underlined portion <ref comment="" target="U20">(2)</ref> in which the part with the wavy line is correct.                        
+      </instruction>
+                              <ansColumn id="A22">22</ansColumn>      <br/>                        
+      <choices anscol="A22" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The palace examination, which was the final stage of the Imperial examinations, was conducted in the palace, with the prime minister serving as the examiner.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Under the Yuan dynasty, which adopted a policy of putting the Semu caste first, Imperial examinations were hardly ever held and the path to becoming a government official was effectively closed to scholar-officials.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Under the Ming dynasty, the Imperial examination system was upgraded and scholar-officials were employed as government officials, but in addition to the emergence of factions among the government officials, the influence of the eunuchs grew, thereby disrupting government.                                 
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>During the Westernization movement under the Qing dynasty, large-scale reforms of the bureaucratic system were carried out, the Imperial examinations were abolished, and graduates of the new schools were employed as government officials.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D7" type="text">
+                              <label>Ｂ</label>In the Muslim world, it was a tenet that all people were equal under Allah, the one and only god, and that the Prophet Muhammad was also just a human, so there was no clergy as there was in Christianity and Buddhism.Even in situations relating to political rule, the fundamental principle was of governance based on Islam, which transcended ethnic differences, as seen from the fact that regimes ruled by Iranian, <uText id="U21"><label>(3)</label>Turkic,</uText> Mongol, Berber, and <uText id="U22"><label>(4)</label>black</uText> rulers emerged in various parts of the Muslim world.There was a legal distinction between free people and non-free people (slaves), but having slave lineage was not in itself a problem in terms of qualification to become a ruler, as seen from the fact that the <uText id="U23"><label>(5)</label>Mamluks</uText>, who had been slaves, were accepted as rulers.Occupations were not restricted on the basis of status: both soldiers and government officials engaged in commerce, and a separate social status for merchants and artisan craftsmen was not formed.<blank id="B2"><label>(6)</label></blank>, who pursued various Islamic studies, such as jurisprudence, were active as teachers, religious leaders, judges, and government officials, fulfilling a role in unifying society.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A23" answer_style="multipleChoice" answer_type="sentence" id="Q26" knowledge_type="KS" minimal="yes">
+                              <label>Question 3</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U21">(3)</ref>, from ①~④ below, choose the one sentence concerning the movement of the Turks of Central Asia that contains a mistake.                        
+      </instruction>
+                              <ansColumn id="A23">23</ansColumn>      <br/>                        
+      <choices anscol="A23" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The Göktürks overthrew the Mongol Rouran Khaganate.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>The Göktürks split into east and west factions in the 6th century.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The Uyghur dispatched reinforcements in order to quell the An Lushan Rebellion.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The Uyghur adopted Islam as their state religion at the time of their founding.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A24" answer_style="multipleChoice" answer_type="(symbol-term_location)*3" id="Q27" knowledge_type="KS,IC_M" minimal="yes">
+                              <label>Question 4</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U22">(4)</ref>, the following map shows the states led by black people that were created in Africa.From ①~④ below, choose the correct arrangement of country names that correspond to the areas marked <ref comment="画像内">(a)</ref> - <ref comment="画像内">(c)</ref> in the diagram.                        
+      </instruction>
+                              <ansColumn id="A24">24</ansColumn>      <br/>                        
+      <data id="D15" type="image">
+                                                                
+        <img src="Center-1997--Main-SekaishiB-006.png"/>
+                                                        
+      </data>
+                              <br/>                        
+      <choices anscol="A24" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum><ref comment="画像内">a</ref>Ghana Empire<ref comment="画像内">b</ref>Kingdom of Mutapa<ref comment="画像内">c</ref>Kingdom of Kush                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum><ref comment="画像内">a</ref>Ghana Empire<ref comment="画像内">b</ref>Kingdom of Kush<ref comment="画像内">c</ref>Kingdom of Mutapa                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum><ref comment="画像内">a</ref>Kingdom of Mutapa<ref comment="画像内">b</ref>Kingdom of Kush<ref comment="画像内">c</ref>Ghana Empire                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum><ref comment="画像内">a</ref>Kingdom of Mutapa<ref comment="画像内">b</ref>Ghana Empire<ref comment="画像内">c</ref>Kingdom of Kush                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A25" answer_style="multipleChoice" answer_type="sentence" id="Q28" knowledge_type="KS" minimal="yes">
+                              <label>Question 5</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U23">(5)</ref>, from ①~④ below, choose the one sentence concerning the Mamluks that contains a mistake.                        
+      </instruction>
+                              <ansColumn id="A25">25</ansColumn>      <br/>                        
+      <choices anscol="A25" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The Ghaznavids had Mamluk ancestry.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>The Almoravid dynasty was established by the Mamluks.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The Ayyubid dynasty was overthrown in a coup d'état by the Mamluks.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The Abbasid Caliphate employed the Mamluks as soldiers.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A26" answer_style="multipleChoice" answer_type="term_other" id="Q29" knowledge_type="KS" minimal="yes">
+                              <label>Question 6</label>                        
+      <instruction>
+                                        From ①~④ below, choose the correct word that should be inserted into the gap marked <ref comment="" target="B2">(6)</ref> in the text.                        
+      </instruction>
+                              <ansColumn id="A26">26</ansColumn>      <br/>                        
+      <choices anscol="A26" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Ulama                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Sultans                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Brahmin                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Sufis                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D8" type="text">
+                              <label>Ｃ</label>From times of antiquity to the 18th-19th centuries, European societies were status-based societies.In the Greek and Roman worlds, the basic statuses were citizen and slave.<uText id="U24"><label>(7)</label>Among the Roman citizens there were aristocratic groups, such as the senators</uText>, but status and class differences were not fixed among the citizens.During the Middle Ages, a concept spread that focused on forming a society in which the three social orders of &quot;those who pray, those who fight and those who work&quot; helped each other out.<uText id="U25"><label>(8)</label>During the 12th-13th centuries, when burghs (autonomous towns) were established, citizen classes were formed that focused on merchants and artisan craftsmen.</uText>From the end of the Middle Ages through to the early modern period, some wealthy citizens were able to increase their social standing by purchasing aristocratic status.However, the system of social status that had been in place since the Middle Ages was maintained, even during the period of absolutism, and it was not dismantled until the <uText id="U26"><label>(9)</label>various popular revolutions and reforms of the 19th century</uText>. <br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A27" answer_style="multipleChoice" answer_type="sentence" id="Q30" knowledge_type="KS" minimal="yes">
+                              <label>Question 7</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that contains a mistake in regard to the underlined portion <ref comment="" target="U24">(7)</ref>.                        
+      </instruction>
+                              <ansColumn id="A27">27</ansColumn>      <br/>                        
+      <choices anscol="A27" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Aristocrats, who were mainly major landowners, were called patricians.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>The post of Consul was monopolized by the aristocracy before Lex Licinia Sextia.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Pompey, who came into conflict with the senate, governed jointly with Octavian.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The Principate nominally respected the traditions of the republic, such as the senate.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A28" answer_style="multipleChoice" answer_type="sentence" id="Q31" knowledge_type="KS" minimal="yes">
+                              <label>Question 8</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U25">(8)</ref>, from ①~④ below, choose the one sentence concerning medieval cities that contains a mistake.                        
+      </instruction>
+                              <ansColumn id="A28">28</ansColumn>      <br/>                        
+      <choices anscol="A28" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Developed medieval cities were surrounded by defensive walls.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>In medieval cities, merchants and artisan craftsmen belonged to guilds, as a general rule.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Augsburg flourished because of the silver produced in southern Germany.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The cities of Flanders flourished because of the cotton industry.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A29" answer_style="multipleChoice" answer_type="sentence" id="Q32" knowledge_type="KS" minimal="yes">
+                              <label>Question 9</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that is correct in regard to the underlined portion <ref comment="" target="U26">(9)</ref>.                        
+      </instruction>
+                              <ansColumn id="A29">29</ansColumn>      <br/>                        
+      <choices anscol="A29" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>In France in 1789, peasants were emancipated from feudal tribute, for which they received no compensation.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>In Austria, Stein and Hardenberg emancipated the peasants.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>In Russia, social modernization was pursued through such means as the Emancipation Reform introduced by Alexander II.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>In the UK, aristocratic status was abolished by means of the Test Acts in the first half of the 19th century.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                        
+  </question>
+                
+  <question id="Q33" minimal="no">
+                    <label>[4]</label>                
+    <instruction>
+                              <br />
+                              <br />
+                              The following texts A-D are extracts from certain books.(Some have been rewritten or abridged.)Read the texts and answer the questions (Questions 1-11) below.<br />
+                              (26 points)<br />
+                                        
+    </instruction>
+                                
+    <data id="D9" type="text">
+                              <label>Ａ</label>The following text is an extract from Donald Keene's Travelers of a Hundred Ages: The Japanese As Revealed Through 1,000 Years of Diaries (Part II), concerning the literature of travel written by Japanese travelers to China in the latter half of the 19th century.<br />
+                              <br />
+                              (During the Meiji period) ships carrying missions to Europe frequently called at Shanghai.Among the members of the missions were quite a few people who recorded in their diaries their impressions of a country that seemed much more familiar to Japanese people than any of the countries of Europe.Nevertheless, there were cases in which these travelers were shocked and perplexed by the huge discrepancy between the reality and their mental image of China, formed by reading the <uText id="U27"><label>(1)</label>history and philosophy</uText> written several centuries earlier.Among the Japanese people who kept a diary of their visit to China was Takezoe Shin'ichiro *, whose work is often praised as a masterpiece of travel literature.San'un Kyou Nikki (A Diary of Clouds in the Mountain Pathways and Rain in the Ravines) depicts a journey that he made in 1876, <uText id="U28"><label>(2)</label>traveling from Beijing to Chongqing via Chengdu, and then down the Yangtze River to Shanghai</uText>.This journey took a total of 110 days.When in Beijing, Takezoe had been moved by the words of various travelers, who told of the beauty of the breathtaking <uText id="U29"><label>(3)</label>landscape of mountains and rivers</uText> in Sichuan Province.He developed a strong desire to see it for himself, whatever it took, and wrote at the very start of his diary, &quot;I cannot suppress my yearning to travel&quot;.<br />
+                              <br />
+                              *Takezoe Shin'ichiro (1842-1917) Confucian scholar from the Kumamoto Domain and Meiji government diplomat<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A30" answer_style="multipleChoice" answer_type="sentence" id="Q34" knowledge_type="KS" minimal="yes">
+                              <label>Question 1</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that is correct in regard to the underlined portion <ref comment="" target="U27">(1)</ref>.                        
+      </instruction>
+                              <ansColumn id="A30">30</ansColumn>      <br/>                        
+      <choices anscol="A30" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Sima Qian wrote about the history of the Western and Eastern Han periods in Records of the Grand Historian.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Zhu Xi rejected distinctions between China and foreign lands, and between statuses, and advocated equality.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Sima Guang compiled the Zizhi Tongjian (Comprehensive Mirror to Aid in Government), which is a chronological summary.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Li Zhi (Li Zhuowu) handed down and developed the traditions of the Cheng-Zhu school.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A31" answer_style="multipleChoice" answer_type="sentence" id="Q35" knowledge_type="KS" minimal="yes">
+                              <label>Question 2</label>                        
+      <instruction>
+                                        From ①~④ below, choose the one sentence that is correct in regard to the cities referred to in the underlined portion <ref comment="" target="U28">(2)</ref>.                        
+      </instruction>
+                              <ansColumn id="A31">31</ansColumn>      <br/>                        
+      <choices anscol="A31" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>On the outskirts of Beijing is the Great Wall, which was repaired during the Ming period.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Chengdu was the base for the Taiping Rebellion.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The Tongmenghui (Chinese United League) was formed in Chongqing.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The Nationalist government moved the capital city to Shanghai and fought against the Japanese army.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A32" answer_style="multipleChoice" answer_type="sentence" id="Q36" knowledge_type="KS" minimal="yes">
+                              <label>Question 3</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U29">(3)</ref>, from ①~④ below, choose the one sentence concerning landscape, nature, culture, and history that contains a mistake.                        
+      </instruction>
+                              <ansColumn id="A32">32</ansColumn>      <br/>                        
+      <choices anscol="A32" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The Shu state, one of the kingdoms during the Three Kingdoms period, was founded inland in Sichuan.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Emperor Yang of Sui linked the Yellow River and the Yangtze River, which had different landscapes and cultures, by means of the Grand Canal.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>During the Yuan period, grain from the Jiangnan region was brought by canal to the capital city in northern China.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Commercial cities such as Luoyang flourished in the lower reaches of the Yangtze River, where water transport was convenient.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D10" type="text">
+                              <label>Ｂ</label>The following text is an extract from Fukuo Jiden, the autobiography of Fukuzawa Yukichi.<br />
+                              <br />
+                               It was the <uText id="U30"><label>(4)</label>first year of the Man'en era when I returned from the USA.</uText>However, in the winter of the first year of the Bunkyu era (the following year), an emissary was dispatched from Japan to Europe, and I had the opportunity to accompany him.At that time, <blank id="B3"><label>(5)</label></blank> of France was being hailed as Europe's premier politician, but it was said that one should be on one's guard in relation to the neighboring country of Prussia, as this was a country in the ascendancy. (Upon visiting Europe) The easiest things for foreigners to understand, most of which are not even written in the dictionary, are the hardest things for us.I didn't understand the election laws in politics at all.Moreover, there were political parties, like factions, in the form of the Conservative party and the Liberal party, <uText id="U31"><label>(6)</label>who would engage in political fights in peace time.</uText>Someone would tell me that this person was the enemy of the other person, but I would see them eating and drinking at the same table. I don't understand it at all.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A33" answer_style="multipleChoice" answer_type="term_person" id="Q37" knowledge_type="KS" minimal="yes">
+                              <label>Question 4</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U30">(4)</ref>, in this year, a candidate from the Republican Party was elected for the first time in a presidential election in the United States of America.From ①~④ below, choose the correct option showing the name of that figure.                        
+      </instruction>
+                              <ansColumn id="A33">33</ansColumn>      <br/>                        
+      <choices anscol="A33" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Jefferson                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Lincoln                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Wilson                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Carter                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A34" answer_style="multipleChoice" answer_type="term_person" id="Q38" knowledge_type="KS" minimal="yes">
+                              <label>Question 5</label>                        
+      <instruction>
+                                        From ①~④ below, choose the most appropriate name of a person that should be inserted into the gap marked <ref comment="" target="B3">(5)</ref> in the text.                        
+      </instruction>
+                              <ansColumn id="A34">34</ansColumn>      <br/>                        
+      <choices anscol="A34" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Lafayette                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Louis Philippe                                 
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Napoleon III                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Clemenceau                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A35" answer_style="multipleChoice" answer_type="sentence" id="Q39" knowledge_type="KS" minimal="yes">
+                              <label>Question 6</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U31">(6)</ref>, from ①~④ below, choose the one sentence that correctly describes political parties in the latter half of the 19th century.                        
+      </instruction>
+                              <ansColumn id="A35">35</ansColumn>      <br/>                        
+      <choices anscol="A35" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>In the United States of America, slavery was abolished as a result of debate by the Republican Party and the Democratic Party in Congress.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>In the UK, the extension of the right to vote was hampered by conflict between the Liberal Party and the Conservative Party.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>In Germany, Cavour ran the country skilfully, while engaging in repeated bouts of conflict and compromise with Catholics and socialists.                                 
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>In France, the Dreyfus affair caused turmoil in the Republic.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D11" type="text">
+                              <label>Ｃ</label>The following text is an extract from Utopia, by the 16th-century British thinker Thomas More.<br />
+                              <br />
+                              &quot;But I do not think people steal only because of this; there is another cause of it, more peculiar to England.&quot;<br />
+                              &quot;What is that?&quot; said the Cardinal:<br />
+                              &quot;The increase of pasture,&quot; said I, &quot;<uText id="U32"><label>(7)</label>by which your sheep, which are naturally mild, and easily kept in order, may be said now to devour men and unpeople, not only villages, but towns…….</uText> the nobility and gentry, and even those holy men, the <uText id="U33"><label>(8)</label>abbots</uText> not contented with the old rents which their farms yielded, nor thinking it enough that they, living at their ease, do no good to the public, resolve to do it hurt instead of good.&quot;<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A36" answer_style="multipleChoice" answer_type="sentence" id="Q40" knowledge_type="KS" minimal="yes">
+                              <label>Question 7</label>                        
+      <instruction>
+                                        The underlined portion <ref comment="" target="U32">(7)</ref> is a metaphor for the enclosures being carried out in Britain at that time.From ①~④ below, choose the one sentence that correctly describes these enclosures.                        
+      </instruction>
+                              <ansColumn id="A36">36</ansColumn>      <br/>                        
+      <choices anscol="A36" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Landowners confiscated land from the peasants in order to engage in sheep farming, and enclosed it using hedges.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Landowners used hedges to enclose land used for sheep farming, and turned it into agricultural land, on which they grew wheat.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Landowners sought to charge high rents, so the peasants opposed this by using hedges to enclose land used for sheep farming.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>In order to make landowners increase food production, agricultural land was enclosed using hedges, and capitalist large-scale agricultural management was carried out.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A37" answer_style="multipleChoice" answer_type="sentence" id="Q41" knowledge_type="KS" minimal="yes">
+                              <label>Question 8</label>                        
+      <instruction>
+                                        In regard to the underlined portion <ref comment="" target="U33">(8)</ref>, from ①~④ below, choose the one sentence describing religious issues in Europe at that time, in which the word/phrase with a wavy line below is correct.                        
+      </instruction>
+                              <ansColumn id="A37">37</ansColumn>      <br/>                        
+      <choices anscol="A37" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>In Germany, the conflict between the Catholics and the Lutherans intensified, but peace was established at <uText id="U34">Zurich</uText> in 1555.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum><uText id="U35">Henry VII</uText> carried out the Protestant Reformation in 1534, and built the foundations of the Church of England.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Ignatius of Loyola formed the <uText id="U36">Society of Jesus</uText> in 1534, and sought to restore Catholic influence.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum><uText id="U37">Louis XIV</uText> issued the Edict of Nantes in 1598, and granted wide-ranging freedom of religion to the Huguenots.                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <data id="D12" type="text">
+                              <label>Ｄ</label>The following text is an extract from John Reed's book Ten Days That Shook the World.<br />
+                              <br />
+                              The Petrograd Soviet was in full swing, thronged with armed men, Trotsky reporting:<br />
+                              'From Moscow, bad news. The Kremlin is in the hands of the yunkers, and the workers have only a few arms. The result depends on Petrograd. <br />
+                              At the front, the decrees on Peace and Land are provoking great enthusiasm. Kerensky is flooding the trenches with tales of Petrograd burning and bloody, of women and children massacred by the <blank id="B4"><label>(9)</label></blank>. But no one believes him. <br />
+                              The cruisers including Avrora are anchored in the Neva, their guns trained on the approaches to the city....'<br />
+                              'Why aren't you out there with the Red Guards?' shouted a rough voice.<br />
+                              'I'm going now!' answered Trotsky, and left the platform.<br />
+                              <br />
+                                        
+    </data>
+                                
+    <question anscol="A38" answer_style="multipleChoice" answer_type="term_other" id="Q42" knowledge_type="KS" minimal="yes">
+                              <label>Question 9</label>                        
+      <instruction>
+                                        From ①~④ below, choose the correct word or phrase that should be inserted into the gap marked <ref comment="" target="B4">(9)</ref> in the text.                        
+      </instruction>
+                              <ansColumn id="A38">38</ansColumn>      <br/>                        
+      <choices anscol="A38" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Tsarist government                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Bolsheviki                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Provisional government                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Constitutional Democratic Party                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A39" answer_style="multipleChoice" answer_type="term_other" id="Q43" knowledge_type="KS" minimal="yes">
+                              <label>Question 10</label>                        
+      <instruction>
+                                        What was the incident that &quot;shook the world&quot; depicted in the foregoing text?Choose the correct answer from options ①~④ below.                         
+      </instruction>
+                              <ansColumn id="A39">39</ansColumn>      <br/>                        
+      <choices anscol="A39" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>The February (March) Revolution                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>The May (June) Revolution                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>The July (August) Revolution                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>The October (November) Revolution                                
+        </choice>
+                                        <br/>                        
+      </choices>
+                                        
+    </question>
+                                
+    <question anscol="A40" answer_style="multipleChoice" answer_type="sentence" id="Q44" knowledge_type="KS" minimal="yes">
+                              <label>Question 11</label>                        
+      <instruction>
+                                        At that time, Russia was in the middle of a war that had been going on for some years.From ①~④ below, choose the one sentence that correctly describes that war.                        
+      </instruction>
+                              <ansColumn id="A40">40</ansColumn>      <br/>                        
+      <choices anscol="A40" comment="">
+                                                                
+        <choice ansnum="1">
+                                                  <cNum>①</cNum>Tolstoy wrote a very long historical novel on the subject of this war.                                
+        </choice>
+                                                                
+        <choice ansnum="2">
+                                                  <cNum>②</cNum>Russia fought against the Ottoman Empire, which was on the side of the Allies.                                
+        </choice>
+                                                                
+        <choice ansnum="3">
+                                                  <cNum>③</cNum>Russia concluded an alliance with Austria-Hungary.                                
+        </choice>
+                                                                
+        <choice ansnum="4">
+                                                  <cNum>④</cNum>Russia concluded the Treaty of Brest-Litovsk to make peace with the Entente Powers.                                
+        </choice>
+                                                        
+      </choices>
+                                        
+    </question>
+                        
+  </question>
+</exam>
