@@ -82,4 +82,4 @@ License
 Apache License, Version 2.0
 
 [UIMA]:http://uima.apache.org
-[NTCIR QALab-1]:ntcir.nii.ac.jp/QALab/
+[NTCIR QALab-1]:http://ntcir.nii.ac.jp/QALab/
