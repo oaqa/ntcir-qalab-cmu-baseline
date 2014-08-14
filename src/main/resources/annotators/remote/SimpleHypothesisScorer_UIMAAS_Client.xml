@@ -1,0 +1,11 @@
+<customResourceSpecifier xmlns="http://uima.apache.org/resourceSpecifier">
+    <resourceClassName>org.apache.uima.aae.jms_adapter.JmsAnalysisEngineServiceAdapter
+    </resourceClassName>
+    <parameters>
+        <parameter name="brokerURL" value="tcp://gold.lti.cs.cmu.edu:61616"/>
+        <parameter name="endpoint" value="HypothesisGenerator"/>
+        <parameter name="timeout" value="500000"/>
+        <parameter name="getmetatimeout" value="5000"/>
+        <parameter name="cpctimeout" value="5000"/>
+    </parameters>
+</customResourceSpecifier>
