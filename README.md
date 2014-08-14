@@ -18,11 +18,11 @@ Contents of this repository
   - document retrieval based evidence collector
   - rule based answer selection and evaluation CAS consumers
 
-*   A [specification document](https://github.com/oaqa/ntcir-qalab-cmu-baseline/doc/baseline_specification.pdf) describes the overall system architecture, UIMA type systems, and each pipeline phases.
+*   A [specification document](https://github.com/oaqa/ntcir-qalab-cmu-baseline/blob/master/doc/baseline_specification.pdf?raw=true) describes the overall system architecture, UIMA type systems, and each pipeline phases.
 
 *   Example intermedia data (in UIMA XMI format) from every steps of the baseline pipeline.
 
-*   UIMA-AS client descriptors that calls baseline annotator UIMA-AS services hosted in CMU server.
+*   UIMA-AS client descriptors that calls baseline annotator UIMA-AS services hosted in CMU servers.
 
 ###Folder Structures
 
@@ -54,7 +54,7 @@ The name of this directory is also specified in the configuration file of the co
 Installation
 --------------
 
-The CMU baseline system requires JDK, git, and maven. Please refer to the [prerequisites](https://github.com/oaqa/ntcir-qalab-cmu-baseline/README_Prerequisites.md) document regarding installing and setting up them.
+The CMU baseline system requires JDK, git, and maven. Please refer to the [prerequisites](https://github.com/oaqa/ntcir-qalab-cmu-baseline/blob/master/README_Prerequisites.md) document regarding installing and setting up them.
 It has been tested on Linux and Mac OS.
 Other platforms should work, but have not been significantly tested.
 
