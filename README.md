@@ -76,8 +76,15 @@ Publications
 For more details, please see our technical report:
 > 
 Di Wang, Leonid Boytsov, Jun Araki, Alkesh Patel, Jeff Gee, Zhengzhong Liu, Eric Nyberg, and Teruko Mitamura. 2014. 
-[CMU Multiple-choice Question Answering System at NTCIR-11 QA-Lab.](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings11/pdf/NTCIR/QALab/05-NTCIR11-QALAB-WangD.pdf)
-In Proceedings of NTCIR-11 Workshop, pages 542–549. [**[BibTex]**](http://junaraki.net/publications/ntcir2014-cmu-qa.bib)
+["CMU Multiple-choice Question Answering System at NTCIR-11 QA-Lab."](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings11/pdf/NTCIR/QALab/05-NTCIR11-QALAB-WangD.pdf)
+In Proceedings of the 11th NTCIR Conference, Tokyo, Japan. 2014. [**[BibTex]**](http://junaraki.net/publications/ntcir2014-cmu-qa.bib)
+
+and the overview paper:
+>
+Hideyuki Shibuki, Kotaro Sakamoto, Yoshinobu Kano, Teruko Mitamura, Madoka Ishioroshi, Kelly Y. Itakura, Di Wang, Tatsunori Mori and Noriko Kando. 
+["Overview of the NTCIR-11 QA-Lab Task."](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings11/pdf/NTCIR/OVERVIEW/01-NTCIR11-OV-QALAB-ShibukiH.pdf)
+In Proceedings of the 11th NTCIR Conference, Tokyo, Japan. 2014.
+[**[BibTex]**](https://scholar.google.com/scholar.bib?q=info:GWlU3iBBUhoJ:scholar.google.com/&output=citation&scisig=AAGBfm0AAAAAVVv64gLA2ePnlfz4nYJVGO2uktvLI3dg&scisf=4&hl=en)
 
 Version
 ----
