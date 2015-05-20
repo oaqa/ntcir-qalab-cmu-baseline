@@ -71,6 +71,14 @@ To run the baseline pipeline from command line:
 mvn compile exec:java -Dexec.mainClass=edu.cmu.lti.ntcir.qalab.runner.SimpleRunCPE
 ```
 
+Publications
+----
+For more details, please see our technical report:
+> 
+Di Wang, Leonid Boytsov, Jun Araki, Alkesh Patel, Jeff Gee, Zhengzhong Liu, Eric Nyberg, and Teruko Mitamura. 2014. 
+[CMU Multiple-choice Question Answering System at NTCIR-11 QA-Lab.](http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings11/pdf/NTCIR/QALab/05-NTCIR11-QALAB-WangD.pdf)
+In Proceedings of NTCIR-11 Workshop, pages 542–549. [**[BibTex]**](http://junaraki.net/publications/ntcir2014-cmu-qa.bib)
+
 Version
 ----
 
